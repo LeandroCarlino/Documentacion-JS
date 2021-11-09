@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(235, 229, 229);
+  }
+  
+  #main-doc {
+    font-size: 1.1em;
+    width: 78%;
+    float: right;
+  }
+  
+  #navbar a {
+    text-decoration: none;
+    color: black;
+    margin-left: 0.5em;
+    
+  }
+  
+  #navbar li {
+    list-style: none;
+    padding-top: 0.6em;
+    padding-bottom: 0.6em;
+    border: 1px black solid
+  }
+  
+  #navbar ul {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  #navbar {
+    font-size: 1.1em;
+    width: 20%;
+    border: black 1px solid;
+    float: left;
+    position: fixed;
+  }
+  
+  h1 {
+    margin-left: 0.5em;
+  }
+  
+  .ul-info li {
+    margin-bottom: 0.5em;
+  }
+  
+  
